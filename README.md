@@ -14,6 +14,7 @@ step 4 -
 Deploying API to cloud functions via firebase
 
 #CREATE AUTO INPUT FIRESTORE
+
 1 - 
 create .env with serviceaccount
 
